@@ -1,0 +1,15 @@
+{
+  "name": "algorithmia-spike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sentiment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algorithmia": "^0.3.10"
+  }
+}
